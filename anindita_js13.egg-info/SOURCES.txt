@@ -1,0 +1,8 @@
+setup.py
+anindita_js13/__init__.py
+anindita_js13/game.py
+anindita_js13/konversi_berat.py
+anindita_js13.egg-info/PKG-INFO
+anindita_js13.egg-info/SOURCES.txt
+anindita_js13.egg-info/dependency_links.txt
+anindita_js13.egg-info/top_level.txt
